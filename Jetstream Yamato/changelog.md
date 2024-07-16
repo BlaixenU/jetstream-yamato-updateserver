@@ -1,2 +1,3 @@
-## Release 1.0
+## _Version 1.0_
 - Mod Released
+
