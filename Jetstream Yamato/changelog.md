@@ -2,6 +2,8 @@
 - Added Yamato's sheathe (from DMC4)
 - Improved reflectiveness of the Yamato to better suit its original look
 
+Credits to [Rabia Çelik](https://next.nexusmods.com/profile/RabiaCelik/about-me) for the ribbon of the sheathe. It's from her mod adding [DMC3 Vergil over DLC Samuel](https://www.nexusmods.com/metalgearrisingrevengeance/mods/627)
+
 ## _Alpha 0.1_
 - Samuel receives the Yamato
   * Most moveset effects modded
