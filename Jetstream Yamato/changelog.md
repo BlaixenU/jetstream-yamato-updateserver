@@ -1,3 +1,7 @@
+## _Alpha 0.2_
+- Added Yamato's sheathe (from DMC4)
+- Improved reflectiveness of the Yamato to better suit its original look
+
 ## _Alpha 0.1_
 - Samuel receives the Yamato
   * Most moveset effects modded
