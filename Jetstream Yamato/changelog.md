@@ -1,4 +1,4 @@
-## _Alpha 0.2_
+## _Alpha 0.2*_
 - Added Yamato's sheathe (from DMC4)
 - Improved reflectiveness of the Yamato to better suit its original look
 
