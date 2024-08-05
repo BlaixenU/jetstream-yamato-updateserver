@@ -1,4 +1,8 @@
-## _Alpha 0.2*_
+## _Alpha 0.3*_
+- Improved lighting on the models even more.
+- Added a glint VFX when Sam sheathes the sword
+
+## _Alpha 0.2_
 - Added Yamato's sheathe (from DMC4)
 - Improved reflectiveness of the Yamato to better suit its original look
 
