@@ -1,7 +1,9 @@
-add data107/pl/pl1400.dat
-add data107/pl/pl1403.dat
-add data107/pl/pl1403.dtt
-add data107/pl/pl1404.dat
-add data107/pl/pl1404.dtt
-add data107/wp/wpd070.dat
+add main/data107/pl/pl1400.dat
+add main/data107/pl/pl1403.dat
+add main/data107/pl/pl1403.dtt
+add main/data107/pl/pl1404.dtt
+add main/data107/wp/wpd070.dat
+add witharm/data107/pl/pl1404.dat
+add withoutarm/data107/pl/pl1404.dat
+add config.json
 add mod.ini
