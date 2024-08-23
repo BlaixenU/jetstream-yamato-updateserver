@@ -1,0 +1,46 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Hide Sheathe Arm",
+               "Description": [
+                  "Hides the part of the sheathe from the gunsheathe that connects to the Samuel's waist. This is disabled by default.\n\nIt is recommended to enable this when playing with mods that change Samuel's model.",
+               ],
+               "Type": "Field1",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "witharm"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "Field1": 
+	  [
+
+         {
+            "DisplayName": "Disabled*",
+            "Value": "witharm",
+            "Description": [
+               "The sheathe arm will be visible ingame.",
+            ]
+         },
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "withoutarm",
+            "Description": [
+               "The sheathe arm will be hidden ingame.",
+            ]
+         },		 
+      ],
+	},  
+   "IniFile": "mod.ini"
+}
