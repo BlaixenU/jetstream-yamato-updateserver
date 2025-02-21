@@ -1,4 +1,7 @@
-## _Alpha 0.4*_
+## _Alpha 0.5*_
+- Remade the textures. This is hopefully the LAST time I need to mess with them and the lighting.
+
+## _Alpha 0.4_
 - Improved lighting on models.
 - Added **configuration settings**:
   * Implemented ability to hide the connector arm between the sheathe and Samuel.
